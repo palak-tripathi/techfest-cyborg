@@ -1,0 +1,6 @@
+{
+  "name": "Techfest IIT Bombay 2026: Cyborg & Aetherial Renaissance",
+  "description": "Single-file cyberpunk landing page for Techfest IIT Bombay 2026 featuring an interactive Three.js 3D cyber-core, parallax scrolling, event filtering, timeline, FAQ, and localStorage Cyber-Pass generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
